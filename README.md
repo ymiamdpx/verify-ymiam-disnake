@@ -12,4 +12,5 @@ This cog includes a simple command verify to not give out roles with pkma, well 
 
 
 Authour: ymiamdpx
+
 discord: @ymiamdpx
