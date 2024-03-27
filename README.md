@@ -14,3 +14,5 @@ This cog includes a simple command verify to not give out roles with pkma, well 
 Authour: ymiamdpx
 
 discord: @ymiamdpx
+
+![image](https://github.com/ymiamdpx/verify-ymiam-disnake/assets/161629037/c6070b93-0ed5-416a-9c32-f85e4a866434)
